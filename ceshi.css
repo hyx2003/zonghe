@@ -41,8 +41,16 @@ ul li{
     list-style: none;
     float: left;
     padding-right:30px;
-    color:white;
+    color:#fff;
     position: relative;
     top:65px;
     left:520px;
+    font-size: 14px;
+}
+.beijing{
+    background:url(./images/background.jpg) no-repeat;
+    width:2200px;
+    height:650px;
+    position: absolute;
+    top:100px;
 }
